@@ -1,4 +1,4 @@
-# EX-NO-4-EXPERIMENTAL-VERIFICATION-OF-OSCILLATOR
+	# EX-NO-4-EXPERIMENTAL-VERIFICATION-OF-OSCILLATOR
 4. ##**EX.NO:* ## EXPERIMENTAL VERIFICATION OF RC Phase Shift and Wien Bridge oscillators 
 	DATE:
  ##AIM:
@@ -29,14 +29,16 @@ The frequency of oscillation is given by fo = 1 /  6 (2RC ).If an invertin
 ---
 ## CIRCUIT DIAGRAM
 RC PHASE SHIFT OSCILLATOR
-<img width="952" height="976" alt="image" src="https://github.com/user-attachments/assets/dd2b5792-8183-4214-9245-8373279357f6" />
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/b6cf7c85-e480-4357-b2f1-481b7ba77148" />
+
 
 
 
 ---
 
 ## MODEL GRAPH
-<img width="414" height="324" alt="image" src="https://github.com/user-attachments/assets/3389b740-b70e-4148-9bf9-e5319627260f" />
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/8e879468-4cb9-4b1d-a882-f27cfc9b5560" />
+
 
 ## DESIGN
 
@@ -57,16 +59,10 @@ R1 =10 R = 33 k. Rf = 29R1=1MΩ
 ---
 ## TABULATION/OBSERVATION
 
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/f7f5977e-487e-4300-81cb-e9407cd9b7e0" />
 
-| S.No | Amplitude (Volts) | Time Period (ms) | Frequency (Hz) |
-|------|--------------------|------------------|----------------|
-| 1    |                    |                  |                |
-| 2    |                    |                  |                |
-| 3    |                    |                  |                |
-| 4    |                    |                  |                |
-| 5    |
----
 ## OUT PUT WAVEFORM AND DISCUSSION 
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/d17bab0c-1ec4-4ef5-af5f-0003e7be23c1" />
 
 
 ---
@@ -90,12 +86,14 @@ The frequency of oscillation is given by fo = 1/2πRC
 
 ## CIRCUIT DIAGRAM
 WIEN BRIDGE OSCILLATOR
-<img width="570" height="480" alt="image" src="https://github.com/user-attachments/assets/be71f26e-36ad-4677-8117-51362146cbbd" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/1f434c3b-c51c-4bdb-bdfc-c611417625f5" />
+
 
 
 ---
 ## MODEL GRAPH
-<img width="414" height="325" alt="image" src="https://github.com/user-attachments/assets/1cc285f7-05c7-4b65-af59-b28cf039fcd3" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/05e1ce3e-743e-4f18-bf11-d1f96e3dfea5" />
+
 
 ---
 
@@ -124,16 +122,11 @@ Rf = 15K *2=30KΩ
 ---
 ## TABULATION/OBSERVATION
 
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/d7700801-0fac-4ba5-8860-ab22d26fa9e4" />
 
-| S.No | Amplitude (Volts) | Time Period (ms) | Frequency (Hz) |
-|------|--------------------|------------------|----------------|
-| 1    |                    |                  |                |
-| 2    |                    |                  |                |
-| 3    |                    |                  |                |
-| 4    |                    |                  |                |
-| 5    |
----
 ## OUT PUT WAVEFORM AND DISCUSSION 
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/4fddaadf-521c-43a6-9e1a-1327858f7500" />
+
 
 
 ---
